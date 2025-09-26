@@ -50,46 +50,37 @@ will need to be extended with workflows for browsing and importing channels from
 
 The following Pull Requests were submitted to the [learningequality/studio](https://github.com/learningequality/studio) repository as part of the GSoC project.
 
+The Kolibri Studio project uses the `unstable` branch as its main development branch. Everything merged here will feature in an upcoming release.
+
 - 🔀 [CommunityLibrarySubmission model #5156](https://github.com/learningequality/studio/pull/5156)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
     
 - 🔀 [CommunityLibrarySubmission viewset #5167](https://github.com/learningequality/studio/pull/5167)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
     
 - 🔀 [Populate Country table #5168](https://github.com/learningequality/studio/pull/5168)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
     
 - 🔀 [Save channel included categories and expose channel version history #5176](https://github.com/learningequality/studio/pull/5176)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
     
 - 🔀 [Add action to resolve Community Library Submissions #5178](https://github.com/learningequality/studio/pull/5178)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
 
 - 🔀 [Add to community library on submission approve #5228](https://github.com/learningequality/studio/pull/5228)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
 
 - 🔀 [Ensure channel version database exists when adding to community library #5233](https://github.com/learningequality/studio/pull/5233)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
 
 - 🔀 [Add bitmask fields for ChannelMetadata categories #5272](https://github.com/learningequality/studio/pull/5272)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
 
 - 🔀 [Community library submission fields and filters in AdminChannelViewSet #5292](https://github.com/learningequality/studio/pull/5292)
   - ✅ Merged into `unstable`
-  - ⚠️ Not in production yet
 
 - 🔀 [ESoCC: Update UIUX of admin ChannelTable to support new Community Library info #5370](https://github.com/learningequality/studio/pull/5370)
-  - ⚠️ Not merged into `unstable` yet
-  - ⚠️ Not in production yet
+  - ✅ Merged into `unstable`
 
 - 🔀 [Submit to Community Library panel #5405](https://github.com/learningequality/studio/pull/5405)
   - ⚠️ Not merged into `unstable` yet
-  - ⚠️ Not in production yet
