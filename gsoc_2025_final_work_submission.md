@@ -83,4 +83,4 @@ The Kolibri Studio project uses the `unstable` branch as its main development br
   - ✅ Merged into `unstable`
 
 - 🔀 [Submit to Community Library panel #5405](https://github.com/learningequality/studio/pull/5405)
-  - ⚠️ Not merged into `unstable` yet
+  - ✅ Merged into `unstable`
